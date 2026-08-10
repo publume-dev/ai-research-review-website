@@ -1,0 +1,29 @@
+{
+  "url": "https://ai-research.publume.dev/",
+  "name": "AI Research Review",
+  "description": "A daily bilingual review of notable artificial intelligence research for engineers, researchers, and curious builders.",
+  "tagline": "Daily AI research, explained without hype.",
+  "locale": "en",
+  "outputLanguages": [
+    "zh-CN",
+    "en"
+  ],
+  "defaultContentLanguage": "en",
+  "publisherName": "Publume Research Desk",
+  "authorName": "AI Research Review",
+  "contactUrl": "",
+  "aiDisclosure": "",
+  "socialImageUrl": "",
+  "newsletterUrl": "",
+  "sponsorUrl": "",
+  "showTopics": true,
+  "showScore": false,
+  "showSources": true,
+  "footerText": "",
+  "presentation": {
+    "schemaVersion": 1,
+    "ads": {
+      "provider": "none"
+    }
+  }
+}
